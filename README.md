@@ -20,7 +20,6 @@
 - Alla inlämningar kontrolleras i ett antiplagiat-verktyg. Fusk kan leda till disciplinära åtgärder och risk för avstängning.
 - Förklara tydligt och koncist - inga långa utläggningar krävs
 - Ge korta kodexempel endast där det efterfrågas (oftast räcker 1-3 rader)
-- Strukturera dina svar tydligt med rubriker
 - Försök att använda korrekt terminologi.
 - Det är okej att använda kursmaterial och anteckningar
 
@@ -143,10 +142,8 @@ Ge exempel på minst två LINQ-metoder du använt (t.ex. `Where`, `Select`, `Ord
 
 ### Format
 
-- Dokument i **PDF-format**
-- Tydliga rubriker för varje fråga (Fråga 1, Fråga 2, etc.)
-- Kodexempel (där det efterfrågas) ska vara formaterade med monospace font
-- Skriv ditt **namn och datum** överst i dokumentet
+- Lämna in den här md filen med dina svar på It's learning senast den 9 november 2025.
+- Skriv ditt **namn** i dokumentet
 
 ### Bedömning
 
