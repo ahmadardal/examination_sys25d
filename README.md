@@ -142,7 +142,9 @@ Ge exempel på minst två LINQ-metoder du använt (t.ex. `Where`, `Select`, `Ord
 
 ### Format
 
-- Lämna in den här md filen med dina svar på It's learning senast den 9 november 2025.
+- Ladda upp den här md filen med dina svar på It's learning senast den 9 november 2025. För de
+  som hellre vill länka till sin Git får ni också göra det.
+
 - Skriv ditt **namn** i dokumentet
 
 ### Bedömning
